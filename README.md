@@ -1,9 +1,7 @@
 # Course-Reservation-and-Exam-registration-systems
 
-# Reg No:
-# Name:
-# Date:
-
+### Reg No: 212224230137
+### Name: Lakshmen Prashanth R
 
 # AIM:
 To develop the Course Reservation and Exam Registration System using Star UML
@@ -39,11 +37,7 @@ Specifying the context and requirements of a system
 
 → Modeling the basic flow of events in a sina use case.
 
-
-
-
-
-
+![,](https://github.com/user-attachments/assets/eaaf139b-4da9-46a4-9ece-ad70658de110)
 
 # CLASS DIAGRAM
 
@@ -59,7 +53,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
-
+<img width="979" height="713" alt="image" src="https://github.com/user-attachments/assets/1a61dd5d-5811-4ea6-953a-92e106fdbad4" />
 
 # COMMUNICTION DIAGRAM:
 
@@ -67,8 +61,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
-
-
+<img width="991" height="749" alt="image" src="https://github.com/user-attachments/assets/46581d95-a047-45bb-b09c-30d2472e7870" />
 
 # PACKAGE DIAGRAM:
 
@@ -78,12 +71,7 @@ organization of the layered architecture within any UML classifier, such as a so
 
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
-
-
-
-
-
-
+<img width="892" height="552" alt="image" src="https://github.com/user-attachments/assets/99297711-6c13-4ed9-ab32-0f11beab92b8" />
 
 # ACTIVITY DIAGRAM:
 
@@ -97,9 +85,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
-
-
-
+<img width="804" height="865" alt="image" src="https://github.com/user-attachments/assets/a10ab496-54c8-4702-a507-fcf6ada9dc14" />
 
 # SEQUENCE DIAGRAM
 
@@ -118,12 +104,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 
 Plan and understand the detailed functionality of an existing or future scenario.
 
-
-
-
-
+<img width="945" height="824" alt="image" src="https://github.com/user-attachments/assets/16ebc456-447d-40b8-9306-1b0d5ab1085d" />
 
 # RESULT
-
-Thus the project to develop Course Reservation and Exam Registration system was developed using Star UML Software is done successfully.
-
+Thus, the project to develop Course Reservation and Exam Registration system was developed using Star UML Software is done successfully.
